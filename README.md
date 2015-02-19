@@ -5,7 +5,7 @@ A collection of Zabbix scripts for Windows.
 the goal is to get information out of Windows into zabbix so it can be used for monitoring.
 
 
-### zbx-softwareinventory :
+##### zbx-softwareinventory :
 - collect software inventory from windows into zabbix.
 
 
@@ -18,7 +18,7 @@ the goal is to get information out of Windows into zabbix so it can be used for 
 
 
 
-Installation
+##### Installation:
 install the [Zabbix Agent for windows](https://www.zabbix.com/documentation/2.0/manual/appendix/install/windows_agent).
 
 place the `zbx-softwareinventory.vbs` in the Zabbix agents folder 
