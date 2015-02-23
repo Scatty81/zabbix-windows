@@ -12,6 +12,7 @@ the output of this query is placed into an SJON string, so Zabbix can work with 
 inside zabbix this WMI query is used to run another query to get the detailed information about this product giving us the result we want.
 
 **Versions**
+
 Version 1.0: First script on GitHub, improvement will follow ;-)
 
 
