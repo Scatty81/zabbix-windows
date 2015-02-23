@@ -3,7 +3,6 @@
 ' Author:   Rutger Hermarij
 ' email:    rutger.hermarij@Scatty.nl
 ' Date:     27-01-2015
-' for:      ASICS Europe B.V.
 ' Version:  1.0
 ' Script created for Zabbix monitoring,
 ' it is used by the agent to see what kind of software is installed on the server.
