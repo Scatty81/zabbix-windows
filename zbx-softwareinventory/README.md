@@ -36,7 +36,15 @@ and also here, make sure that the vbs file is located there ;-)
 
 now import the XML file into your zabbix and enjoy the inventory.
 
+**Troubleshooting**
 
+► Zabbix does not import the data and you receive a JSON error on a Windows 2003 machine.
+◄ try to execute the script manually, if you receive the following error code: 0x80041010.
+  Win32_Product class is not installed by default on Windows Server 2003
+  1. In Add or Remove Programs, click Add/Remove Windows Components.
+  2. In the Windows Components Wizard, select Management and Monitoring Tools and then click Details.
+  3. In the Management and Monitoring Tools dialog box, select WMI Windows Installer Provider and then click OK.
+  4. Click Next.
 
 
 
