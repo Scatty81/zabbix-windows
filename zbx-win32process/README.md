@@ -1,14 +1,11 @@
-<<<<<<< HEAD
-# zabbix-Windows
-=============
-
 =======
 # zbx-win32process
 
 
 **What does this script do?**
 
-I made this script so I could monitor all windows processes on the machine
+I made this script so I could monitor all windows processes on the machine,
+based on a LLD discovery and a vbs script it checks all processes in windows into windows.
 
 **Versions**
 
