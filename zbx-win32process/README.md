@@ -34,3 +34,8 @@ and also here, make sure that the vbs file is located there ;-)
 now import the XML file into your zabbix and enjoy the monitoring ;-).
 
 *ps: some machines can cause the agent to use 25% of the CPU, so but its good to check performance issues.
+
+
+
+
+>>>>>>> origin/master
