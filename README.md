@@ -6,10 +6,11 @@ A collection of Zabbix scripts for Windows.
 the goal is to get information out of Windows into zabbix so it can be used for monitoring.
 
 ##### INDEX
-###### zbx-softwareinventory - collect software inventory from windows into zabbix.
-###### zabbix_win32printer - Collects all printers that are installed on the print server (pages printed etc.)
-###### zabbix_win32process - monitor all windows processes.
-###### zbx-win32filesCreated - checks if there is a file created in a folder.
+###### installation           :: how to install the plugins
+###### zbx-softwareinventory  :: collect software inventory from windows into zabbix.
+###### zabbix_win32printer    :: Collects all printers that are installed on the print server (pages printed etc.)
+###### zabbix_win32process    :: monitor all windows processes.
+###### zbx-win32filesCreated  :: checks if there is a file created in a folder.
 
 
 ##### Installation:
@@ -31,3 +32,4 @@ restart your agent
 import the XML file into zabbix ( `zbx-softwareinventory.xml` )
 
 
+more to come :)
