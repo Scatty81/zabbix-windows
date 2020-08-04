@@ -1,7 +1,7 @@
 ' ******************************************************************************
 ' zbx-getInstalledSoftware
 ' Author:   Rutger Hermarij
-' email:    rutger.hermarij@Scatty.nl
+' email:    Github@Scatty.nl
 ' Date:     27-01-2015
 ' Version:  1.0
 ' Script created for Zabbix monitoring,
